@@ -1,4 +1,7 @@
 My custom [Vial ](https://get.vial.today/) configuration for the [DASBOB](https://github.com/GroooveBob/DASBOB) keyboard.
+
+To install, in vile go to `File > Load Saved Layout` and select `Gaming.vil`.
+
 ### [Layer 0] Typing Layer (Default)
 ![](docs/Layer0.png)
 ### [Layer 1] Symbol layer
